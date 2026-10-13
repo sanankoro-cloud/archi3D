@@ -1,0 +1,6 @@
+{
+  "name": "ArchEase - Architecture 2D/3D & Estimation BTP",
+  "description": "Cahier des charges technique et fonctionnel complet (PRD) et Studio interactif de conception 2D/3D, métré BOQ multi-devises et suivi de chantier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
